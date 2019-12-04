@@ -1,5 +1,9 @@
 This is another test file!
 
+<<<<<<< HEAD
 my name: mohammed jamal abdelal 
 ID:215110073
 information system
+=======
+The quick brown fox jumped over the lazy dog.
+>>>>>>> ac11624a7347e2c99158419e72399e7571a72b88
