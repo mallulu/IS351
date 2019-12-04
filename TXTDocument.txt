@@ -2,6 +2,7 @@ This is another test file!
 
 <<<<<<< HEAD
 MHD.Makeen
+MHD.Makeen 2
 =======
 <<<<<<< HEAD
 
