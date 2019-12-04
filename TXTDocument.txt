@@ -18,4 +18,8 @@ The quick brown fox jumped over the lazy dog.
 hey my name is mohammed
 >>>>>>> 3b1ff7493bd8de9159d5025ca3721d61f9bc8fd6
 
+<<<<<<< HEAD
 hola i love you all
+=======
+I want to fight the boss
+>>>>>>> Lulu
