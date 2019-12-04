@@ -10,4 +10,10 @@ hello there this is abdulaziz
 =======
 The quick brown fox jumped over the lazy dog.
 >>>>>>> ac11624a7347e2c99158419e72399e7571a72b88
+<<<<<<< HEAD
 >>>>>>> fa444b44c31912e8adac096a3f74ef4418f9bc91
+=======
+
+
+hey my name is mohammed
+>>>>>>> 3b1ff7493bd8de9159d5025ca3721d61f9bc8fd6
