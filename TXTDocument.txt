@@ -1,3 +1,13 @@
 This is another test file!
 
+<<<<<<< HEAD
 MHD.Makeen
+=======
+<<<<<<< HEAD
+
+
+hello there this is abdulaziz
+=======
+The quick brown fox jumped over the lazy dog.
+>>>>>>> ac11624a7347e2c99158419e72399e7571a72b88
+>>>>>>> fa444b44c31912e8adac096a3f74ef4418f9bc91
